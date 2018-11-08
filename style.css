@@ -1,0 +1,48 @@
+#main{
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 95%;
+    font-family: 'Spicy Rice', cursive;
+    background: #f4f4f4;
+}
+#image{
+ display:block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width:90%;
+}
+body{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
+#img-div{
+  width:100%;
+  
+  margin:5px;
+  padding:
+}
+#titulo-beatles{
+  text-align:center;
+}
+
+#img-caption{
+  padding-left: 5%
+}
+
+#content{
+ display:block;
+ margin:auto;
+ padding:auto;
+ width:70%;
+ text-align:justify;
+  
+}
+
+iframe{
+  width:100%;
+}
